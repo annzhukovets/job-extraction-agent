@@ -1,0 +1,59 @@
+Machine Learning Engineer 
+Amsterdam, North Holland, Netherlands
+About the job
+About The Role And The Xomnia Culture
+
+At Xomnia, machine learning is more than model building - it’s about engineering intelligent systems that deliver real value. As a Machine Learning Engineer, you’ll work alongside passionate consultants to help our clients unlock the full potential of their data.
+
+From advancing cancer research to real-time fraud detection and electricity grid optimization, we work on projects that make a difference. Our culture thrives on curiosity, shared ownership, and the courage to challenge assumptions. We value people who enjoy experimenting, sharing knowledge, and working together to create AI solutions that last.
+
+Are you ready to take on this challenge?
+
+In this role, you’ll develop and deploy machine learning models across diverse domains - from healthcare to logistics and finance. Whether you’re designing recommender systems, deploying models to the cloud, or helping clients adopt MLOps practices, your consultancy skills will bring together technical excellence and business impact.
+
+Your role
+
+Design and implement robust ML models that solve real-world problems.
+Build end-to-end ML pipelines - from feature engineering to deployment and monitoring.
+Collaborate with cross-functional teams to turn business needs into scalable solutions.
+Apply MLOps best practices such as CI/CD, versioning, testing, and automation.
+Deploy models on cloud platforms like Azure, AWS, or GCP.
+Work with tools like MLflow, Airflow, Docker, Kubernetes, and Spark.
+Stay up to date with the latest techniques, including Generative AI, and explore their application.
+Guide clients in building internal ML capabilities and following engineering best practices.
+Share your expertise through mentorship, demos, and internal learning sessions.
+
+What You Bring To The Table
+
+Preferable +/- 2-5 years of relevant experience in ML engineering, data science, or similar roles.
+A degree in Computer Science, AI, Data Science, or a related technical field.
+Strong coding skills in Python and experience with cloud environments (Azure, AWS, or GCP).
+Solid understanding of statistics and machine learning fundamentals.
+Experience building and deploying production-grade ML systems.
+Familiarity with Docker, CI/CD pipelines, infrastructure-as-code, and orchestration tools.
+A consulting mindset: you enjoy listening, collaborating, and turning needs into solutions.
+Fluent in English and Dutch.
+A drive to learn, improve, and share knowledge - both internally and with the broader tech community.
+
+What’s in it for you?
+
+We offer more than a job - we offer a platform for growth:
+
+A monthly salary between €3.800 - €6.200 per month (based on 40 hours and excluding vacation allowance)
+€5.000 annual development budget
+25 vacation days to fully recharge
+Secondary benefits such as pension, flexible working options (in terms working location) and the possibility to take unpaid leave
+Memorable company trips (Berlin this year!)
+The opportunity to grow along with our success through Stock Appreciation Rights
+
+At Xomnia, we believe that collaboration, knowledge sharing, and personal development are the keys to our success. That’s why we offer various trainings through our ‘Learning Labs’ and organize a yearly Health Month. We also regularly enjoy boat trips through the Amsterdam canals with our own boat, and there is always a healthy (free) lunch and a bar at the office.
+
+Become a Xomnian!
+
+At Xomnia, we believe in using data and AI to tackle real-world challenges. With a team of passionate experts from 20+ nationalities and over 30% female representation, we celebrate diversity and welcome different perspectives.
+
+We Are Proud Of Our Core Values
+
+We are challengers, we embrace agility, and we always share.
+
+Want to be part of this and take the next step in your career?

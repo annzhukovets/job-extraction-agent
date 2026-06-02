@@ -1,0 +1,65 @@
+About the job
+💻 Job Title: AI Engineer / Software Engineer (Backend)
+💰 Salary: up to £135k / €155k
+📈 Equity: up to 0.2%, currently valued at $250k (aiming to ~x10 in 3-4 years)
+📍 Location: fully remote anywhere in Europe (quarterly team get togethers)
+🔐 Company: Cyber Security SaaS start-up building AI agents to identify and resolve cloud vulnerabilities
+👥 Team: ~40
+💸 Funding: $30m+ (Series A)
+
+
+The company
+
+This rapidly-growing, AI-native cybersecurity startup is building autonomous agents that investigate and remediate cloud vulnerabilities at enterprise scale. Their agents don’t just classify alerts - they:
+Read vulnerability documentation
+Run tools against real infrastructure
+Determine exploitability in context
+Assess business impact
+Recommend concrete remediation
+
+
+👉 Their customers are seeing 80-90% reduction in vulnerability noise. That's huge.
+
+
+The role
+
+This is not an ML / AI research role. It's all about productionising AI systems that actually work in the real world, ingesting enormous volumes of data and solving complex problems at enterprise scale.
+
+
+🫵 What you’ll be doing:
+
+Designing and scaling LLM-powered agents operating in live cloud environments
+Architecting backend systems to support agent orchestration, evaluation and reliability
+Building production-grade services that integrate AI components with deterministic systems
+Making AI systems more reliable, observable and cost-efficient
+Optimising performance of distributed workloads
+Shipping customer-facing remediation tooling
+Expanding into AppSec (static analysis + software vulnerabilities)
+Working in a greenfield, high-ownership environment
+
+
+🤔 You’ll be expected to think in terms of:
+
+“How does this behave in production?”
+“How do we evaluate and monitor agent performance?”
+“What are the failure modes?”
+“How does this integrate cleanly with the rest of the stack?”
+
+
+✅ Must have requirements:
+
+Strong software engineering background and a mastery of Python
+Experience building and shipping LLMs or AI-agent systems in production
+Deep understanding of distributed systems and scalability trade-offs
+Deep AWS expertise
+Proven ability to operate in ambiguity and build from first principles
+
+
+👍 Bonus points for:
+
+Previous experience in big tech/companies moving massive data volumes as well as rapidly scaling start-ups
+Founding engineer experience
+Domain expertise in AI and/or Cyber Security, ideally understanding of vulnerability management
+Experience with agent frameworks (LangChain, LlamaIndex, DSPy, custom orchestration layers)
+Evaluation frameworks, tracing, observability for LLM systems
+Experience scaling systems under real load

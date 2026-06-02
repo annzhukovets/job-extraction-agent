@@ -1,0 +1,89 @@
+AI Techlead 
+Amsterdam, North Holland, Netherlands
+About the job
+At a glance
+
+Our AI team builds GenAI applications that go into production at one of the Netherlands' largest banks. Voice agents handling thousands of contact center calls. AI lending assistants supporting lenders in writing credit proposals. Agentic workflows that actually make it to users.
+
+We don't stop at prototypes. We build, ship, measure, iterate, and do it fast. As an AI Tech Lead, you set the technical direction across these initiatives and stay close enough to the code to keep that pace honest. If you've got 7+ years of engineering experience, a serious track record of shipping AI in production, and you're looking to lead at a scale most companies won't give you for years, read on.
+
+Your job
+
+You set the technical direction on GenAI initiatives that span the bank: from the first conversation with a business team through to production and beyond. You decide how things get built, you build with the team, and you make sure the right things actually get done in a complex organisation. Your focus shifts with the use case: backend, frontend, from levering LLM’s to agentic. You own outcomes, not just architecture diagrams. You work directly with the people whose problems you're solving, and you bring the rest of the team along.
+
+Concretely, you'll:
+
+Set the technical direction for GenAI solutions across banking use cases: Voice AI, RAG pipelines, agentic workflows, document intelligence.
+Drive initiatives end-to-end through a complex organisation: align stakeholders, unblock teams, make the calls that need to be made.
+Co-create use cases with business counterparts: you understand the problem, not just the technology, and you shape what gets built.
+Stay hands-on: design and write the hard parts if required.
+Own architecture and technical quality across multiple workstreams: trade-offs, patterns, what we standardise on, what we don't.
+Work with Agents, plain LLMs, code, Databricks and whatever the right tool is for the job.
+Raise the technical bar of the team: code reviews, design reviews, knowledge sharing, coaching mediors and juniors.
+
+
+Working environment
+
+You'll be part of a 25+ person AI team inside ABN AMRO's Innovation department. We operate with a startup mindset within a bank that serves millions of customers and employs thousands of individuals: fast feedback loops, direct lines to business leadership, and real deployment at scale. Amsterdam, hybrid.
+
+Your profile
+
+We don't hire on CV titles. We hire on what you've shipped and what you've led. The team includes people who came through software engineering, data science, infra — what they share is proven AI expertise and a bias for building over theorising. As a tech lead, you bring the same plus the ability to take an ambiguous problem and a group of strong engineers and turn it into something running in production.
+
+What you've done:
+
+Led the technical side of AI or software initiatives end-to-end: you've owned the architecture, made the hard calls, and shipped.
+Built and deployed AI applications using LLMs, RAG, agents, fine-tuning, voice AI, or equivalent (at production scale, with real users).
+Written Python that runs in production: you're a developer, not a notebook user, and you still enjoy writing the code.
+Worked with cloud infrastructure: Azure preferred, AWS or GCP also fine.
+Operated inside a complex organisation (or built the muscle elsewhere) and got things done across teams, not just within one.
+
+
+How you work:
+
+You take ambiguous problems, set a direction, and bring people with you (without waiting for permission).
+You have strong technical opinions, formed through experience, and you're willing to defend them and change them.
+You're as interested in the business problem as in the technical solution.
+You explain your decisions clearly to people who don't share your context (engineers, business, leadership).
+You follow the GenAI field closely because you're genuinely curious, not because you have to.
+You've built something on the side (a tool, a project, a contribution) that shows you don't wait to be told what to learn.
+
+
+We are offering
+
+We believe it is important to be a good employer. Joining us means stepping into a role with impact, supported by excellent employment conditions that foster your job satisfaction, development, and wellbeing. In addition, we offer:
+
+An attractive gross monthly salary based on a 36‑hour work week, including holiday allowance and a flexible benefit budget which adds up to a range of €65.000 to €93.000 a year based on a 36-hour week (40 hours possible, pro-rated)
+An excellent pension scheme, ensuring that you are well prepared for the future.
+Flexibility in working: working from home is possible in consultation with your team and depending on your role. We will provide an ergonomic home office setup for you.
+Plenty of room for relaxation with five weeks of vacation per year, supplemented by two mandatory days off. You can also purchase up to four additional weeks of vacation annually.
+Five “Banking for better days”: extra days off that you can use for personal development or volunteer work.
+Personal development is key: you receive a development budget of €1,000 per year, which can accumulate up to €3,000.
+An annual public transport pass with free public transportation throughout the Netherlands for both business and private use.
+
+
+You can find more information about our employment conditions and salary scales in our Collective Labour Agreement (CLA), which applies to this vacancy.
+
+Interested?
+
+No motivation letter. Please answer these two questions instead:
+
+Tell us about an AI initiative you led: what did you build, what calls did you make as the technical lead, and what did you learn when it hit production (or real users)?
+What's the most interesting thing you've built or experimented with in AI in the last six months? Why does it matter to you?
+
+
+Applications without these answers will not be reviewed.
+
+The recruitmentprocess consists of an online personality assessment, an online culture interview, a technical case and an offline technical Interview.
+
+Your Future: Inclusive, Innovative, Sustainable
+
+At ABN AMRO, we believe in "Banking for better, for generations to come." Equal opportunities for everyone are a crucial foundation, as we strive for an inclusive culture where all employees feel seen, heard, and valued. Our vision of being a personal bank in the digital age aligns perfectly with the demand for surprising insights and innovative solutions, born from a diverse interplay of cultures and experiences. We focus on customer experience, sustainability, and building a future-proof bank, conducting annual reviews to ensure equal pay for equal work. Join a bank that embraces ingenuity and ambition, and make an impact with us for a better future.
+
+If you want to apply for the B-Able or Reboot program, make sure to mention it both in the title and the content of your resume.
+
+Disclaimer external recruitment agencies
+
+External recruitment agencies need to have a signed agreement with ABN AMRO BANK N.V., executed by a Talent Acquisition Specialist, when submitting a resume to a vacancy. No unsolicited services or offers, please.
+
+

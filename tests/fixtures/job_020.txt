@@ -1,0 +1,93 @@
+Artificial Intelligence Engineer 
+Amsterdam Area
+About the job
+Are you ready to be a part of something transformative?
+Join the AH Stores team as a Senior AI Engineer and embark on a journey to reshape our traditional technology infrastructure into a modern, cutting-edge technology landscape that touches the lives of millions of customers daily.
+
+
+As a Senior AI Engineer, you'll play a leading role in driving our GenAI-powered transformation across the Stores landscape. You'll design and build intelligent, microservices-based solutions that leverage modern technologies—combining Kotlin, Python, Kafka, and cutting-edge Generative AI capabilities to create smarter, more adaptive applications.
+
+
+If you're passionate about integrating AI into real-world systems, shaping next-generation developer practices, and delivering impactful innovations at scale, this is the perfect opportunity for you.
+
+
+This is how you will reinvent food retail with Generative AI
+
+Design and build intelligent, GenAI-enabled microservices architectures using Kotlin/Python within the Stores Cluster.
+Embed Generative AI capabilities into products to create smarter, more personalised, and context-aware retail experiences.
+Coach and guide engineers on adopting AI-first development practices, integrating LLMs, and leveraging modern AI toolchains.
+Develop scalable technical solutions aligned with our systems architecture, business processes, and emerging AI capabilities.
+Experiment with and validate GenAI use cases through rapid prototyping and proofs of concept.
+Write high-quality, secure, and maintainable code, with a strong focus on automated testing, responsible AI usage, and code quality.
+Continuously elevate our engineering standards, including best practices for AI integration, observability, and governance.
+Collaborate closely within a product team—contributing to agile ceremonies, refining AI-driven features, deployments, and production support.
+Share your expertise and drive GenAI adoption across your product cluster and the broader AH Technology Platform.
+Enable the team to deliver value faster by evolving development processes, upskilling in AI, and embedding a continuous learning mindset.
+As Senior AI Engineer, you are technically responsible for the work of your team. Your team develops and supports multiple applications delivering one or more capabilities for our brands in the Netherlands.
+
+
+You will work closely with our Product Owner and Engineering Manager to further develop our technology landscape.
+
+
+Your new team and office.
+
+Together with your team, you will work on inspiring projects that accelerate our transition into a hybrid Food & Tech company.
+We want to leverage data and technology to future-proof food shopping and make healthy food more accessible to everyone. At Albert Heijn, you team up with inspiring peers in the data, digital, and technology domains—a community of diverse individuals who share a common goal: creating digital solutions that make (online) shopping simpler and more inspiring.
+Are you ready to reinvent the way millions of people buy and enjoy their food?
+We invest heavily in data, digital, and technology—and that includes investing in your career. Our teams work in a hybrid way, both from home and from our office, located right next to Zaandam train station.
+
+
+We believe it's important to be part of a high-belonging team: a team where you can be yourself and feel safe, accepted, and appreciated.
+For this role, we are preferably looking for someone who brings diversity to our team in the broadest possible sense. Someone who adds new perspectives and ideas to the table.
+So don't check every box? Don't worry, we probably don't either 😉. Don't hesitate to apply if you think you're up for the challenge—we'd love to see your resume.
+
+
+What we offer
+
+At Albert Heijn, we aim to grow, and this is only possible if you grow along with us. As we work together to build our brand and your career, you can count on (based on 40 hours per week):
+An annual salary up to 106k, including holiday allowance and a flexible bonus, depending on your seniority and experience.
+A minimum of 20 days paid vacation, with the option to purchase an additional 12.5 days.
+Flexible working hours.
+Access to a challenging training curriculum through the AH Tech Academy.
+An excellent pension plan where Albert Heijn contributes 4.5 times more than you as an employee.
+A travel allowance or NS Business Card for commuting to and from Zaandam.
+Attractive discounts on various insurance policies.
+10% staff discount on groceries in all Albert Heijn stores, up to €300 per year.
+A free Mijn Albert Heijn Premium membership with many benefits.
+A company laptop and phone.
+
+
+The recipe for maximum impact (GenAI Edition)
+
+Bachelor's or Master's degree in Technology, IT Engineering, or a related field.
+5+ years of experience as a Senior Engineer, Tech Lead, or Principal Engineer in complex, enterprise-scale technology environments.
+Strong technical foundation in Kotlin/Java (Python is a plus), microservices, and cloud platforms (preferably Azure and OCI), with the ability to design scalable, secure, and high-performing systems.
+Hands-on experience or a strong interest in Generative AI and AI-driven development, including integrating LLMs, working with AI APIs, or building AI-powered features.
+Experience with event-driven architectures and messaging platforms such as Kafka, especially in real-time or AI-enhanced systems.
+Solid understanding of API design, system integrations, and non-functional requirements such as scalability, observability, and security—including considerations specific to AI systems (e.g., responsible AI and data privacy).
+Experience with rapid experimentation and prototyping, ideally including AI/GenAI proof-of-concepts.
+Familiarity with Agile ways of working and a strong focus on delivering incremental value.
+Optional but valuable: experience with Oracle PL/SQL or legacy system integration.
+Excellent communication skills with the ability to lead, coach, and inspire teams in adopting new technologies, including AI-first practices.
+Fluent in English.
+Currently based in the Netherlands.
+
+
+We’re Albert Heijn, food retail reinventors. 🚀
+Albert Heijn goes way back. More than 135 years, to be exact. So for millions of people, food shopping is synonymous with the Albert Heijn brand. We didn’t achieve this with a complacent, ‘hey, if it works today, it’ll work tomorrow’ approach, but by continually rethinking our propositions and staying plugged in to customer demands. More than 125,000 colleagues? Check. Over 1,250 stores in the Netherlands and Flanders? Check. The leading online food retail platform? Check, we build, run and love it.
+
+
+Together we make eating better the easy choice. For everyone.
+
+The world around us has changed, and significantly at that. These changes have impact on the lives of our customers, colleagues and partners. And therefore, also on Albert Heijn. We’re moving towards a new world with new opportunities and challenges. Albert Heijn wants more people to eat fresher, healthier and more sustainable food. Eating brings us together, keeps us healthier and contributes positively to the world. Our mission is: Together we make eating better the easy choice. For everyone.
+
+
+Albert Heijn the Netherlands is B Corp certified. This underscores our purpose, through which we aim to contribute to a healthier, more social, and sustainable society. B Corp certification is a designation that a business is meeting high standards of verified performance, accountability and transparency.
+
+
+Ready to contribute to our mission?
+
+Do you want to play an active role in changing the food retail landscape as we know it? Then hop on board and join us on our expedition. Would you like to learn more first, before you apply to Albert Heijn? We’re happy to tell you everything about this vacancy! An assessment might be part of our selection process. Since we’ll start the selection interviews right away, we encourage you to apply as soon as possible.
+
+
+Please note: An assessment will be part of the selection process.

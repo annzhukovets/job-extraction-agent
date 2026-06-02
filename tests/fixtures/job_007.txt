@@ -1,0 +1,54 @@
+Lead Machine Learning Engineer  
+
+Amsterdam, North Holland, Netherlands
+About the job
+Senior AI & ML Egnineer Lead
+
+Amsterdam, Netherlands
+
+Up to €140k total package 
+
+
+
+This is a senior leadership role for someone who wants to shape how AI and machine learning are applied at scale across a high‑impact consumer platform. You will define strategy, influence product direction, and lead teams building production‑grade ML and generative AI solutions that directly affect millions of users.
+
+
+
+The Company
+
+They are a well‑established digital platform operating at significant scale, with data and technology at the core of their product strategy. AI and machine learning are central to how they improve user experience, relevance, and efficiency. The organisation values pragmatic innovation, strong engineering standards, and collaboration between product, data, and engineering teams.
+
+
+
+The Role
+
+Lead and develop a team of data scientists embedded within product teams
+Set and own the ML and AI strategy, aligning technical direction with long‑term product and business goals
+Champion an AI‑first approach, identifying where traditional ML, generative AI, or hybrid solutions deliver the most value
+Oversee the full lifecycle of ML and AI systems, from experimentation to reliable production deployment
+Drive high standards in model evaluation, MLOps, and engineering best practices
+Make informed build‑versus‑buy decisions for models, platforms, and third‑party tools
+Act as a senior partner to product, engineering, and business stakeholders
+
+
+Your Skills & Experience
+
+Strong commercial experience building and deploying machine learning systems in production
+Deep understanding of core ML concepts and modern AI techniques, including generative AI and large language models
+Experience leading or mentoring data science or ML teams in a product‑driven environment
+Strategic mindset, with the ability to connect technical decisions to business impact
+Confidence influencing senior stakeholders and making decisions with imperfect information
+Solid knowledge of modern data stacks, MLOps, and scalable ML architectures
+
+
+What They Offer
+
+Competitive base salary with performance‑related bonus
+High‑impact role with clear ownership and strategic influence
+Strong emphasis on learning, experimentation, and technical excellence
+Collaborative culture with real investment in data and AI capability
+
+
+How to Apply
+
+If you are looking to lead AI and ML at scale and shape the direction of a major consumer platform, apply now to find out more.

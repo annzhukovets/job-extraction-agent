@@ -1,0 +1,39 @@
+Artificial Intelligence Engineer
+European Union
+About the job
+Requirements
+Must-have:
+German Fluency
+Data engineering pipelines (preprocessing, ingestion, transformation)
+LLMs (LangChain/LangGraph or OpenAI SDK) / AI systems in production
+Prompt engineering, structured outputs, and HITL design
+Strong Python Skills, async patterns
+APIs (e.g. FastAPI)
+Handling unstructured data (PDFs, OCR, images)
+Multi-modal AI (text + image)
+Real-time / low-latency systems
+Cloud & infrastructure (Terraform)
+Docker, testing pyramids & CI/CD pipelines
+CRM integrations
+Understanding of: Data quality, validation & monitoring, Security / filtering layers in AI systems
+
+
+Nice to Have:
+Event-driven architecture experience with Azure Service Bus or equivalent (Kafka, RabbitMQ), async workers, and fan-out/join patterns
+Hands-on LLM observability and evals with Langfuse or equivalent
+Azure-native services: Container Apps, KEDA autoscaling, IAM, secrets management
+Expectations:
+Strong AI Engineering mindset, but hands-on with data
+Comfortable working across different areas (AI, data, backend)
+Flexible and pragmatic ("not just LLM modeling")
+Able to work in early-stage, evolving environments
+
+
+Tasks
+Design & implement data pipelines and preprocessing workflows
+Work with LLMs in production environments
+Contribute to: Prompt engineering, Model orchestration, Evaluation & quality assurance
+Support multi-modal processing (text, PDFs, images)
+Integrate AI components into existing systems & APIs
+Infrastructure as Code (Terraform)
+Service architecture

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "job_001",
+    "source": "picnic.com",
+    "role": "Senior Machine Learning Engineer",
+    "company": "picnic",
+    "notes": "no salary, pretty long description"
+  },
+  {
+    "id": "job_002",
+    "source": "LinkedIn",
+    "role": "Senior Machine Learning Engineer",
+    "company": "ebay",
+    "notes": "no salary, very long description"
+  },
+  {
+    "id": "job_003",
+    "source": "LinkedIn",
+    "role": "Machine Learning & AI Engineer",
+    "company": "ABN AMRO",
+    "notes": "pretty long description, all fields should be seen"
+  },
+  {
+    "id": "job_004",
+    "source": "LinkedIn",
+    "role": "Senior AI Engineer",
+    "company": "Enjins",
+    "notes": "pretty long description, all fields should be seen"
+  },
+  {
+    "id": "job_005",
+    "source": "LinkedIn",
+    "role": "Senior AI Engineer",
+    "company": "OpenUp",
+    "notes": "no slary"
+  },
+  {
+    "id": "job_006",
+    "source": "Glassdoor",
+    "role": "Senior ML & AI Engineer",
+    "company": "Adapt Analytics",
+    "notes": "good description in Dutch"
+  },
+  {
+    "id": "job_007",
+    "source": "LinkedIn",
+    "role": "Lead Machine Learning Engineer",
+    "company": "Harnham",
+    "notes": "short description"
+  },
+  {
+    "id": "job_008",
+    "source": "LinkedIn",
+    "role": "Lead AI engineer",
+    "company": "Ynteq",
+    "notes": "short description"
+  },
+  {
+    "id": "job_009",
+    "source": "LinkedIn",
+    "role": "AI Engineer",
+    "company": "Builders",
+    "notes": "good description"
+  },
+  {
+    "id": "job_010",
+    "source": "LinkedIn",
+    "role": "Supply Chain Planner",
+    "company": "Just Brands",
+    "notes": "pretty short description, no salary"
+  },
+  {
+    "id": "job_011",
+    "source": "LinkedIn",
+    "role": "Sr. Demand Planning Analyst",
+    "company": "HelloFresh",
+    "notes": "good description, no salary"
+  },
+  {
+    "id": "job_012",
+    "source": "LinkedIn",
+    "role": "Junior Supply Chain Planner",
+    "company": "HelloFresh",
+    "notes": "good description, no salary"
+  },
+  {
+    "id": "job_013",
+    "source": "LinkedIn",
+    "role": "Supply Chain Planner",
+    "company": "Just Good People",
+    "notes": "short description in Dutch, no salary"
+  },
+  {
+    "id": "job_014",
+    "source": "LinkedIn",
+    "role": "AI Engineer",
+    "company": "Wave Group",
+    "notes": "good description"
+  },
+  {
+    "id": "job_015",
+    "source": "LinkedIn",
+    "role": "Artificial Intelligence Engineer",
+    "company": "Digisourced.",
+    "notes": "very short description, no data"
+  },
+  {
+    "id": "job_016",
+    "source": "LinkedIn",
+    "role": "AI Application Engineer",
+    "company": "Nostrion",
+    "notes": "short description, no data"
+  },
+  {
+    "id": "job_017",
+    "source": "LinkedIn",
+    "role": "Machine Learning Engineer",
+    "company": "Xomnia",
+    "notes": "good description"
+  },
+  {
+    "id": "job_018",
+    "source": "LinkedIn",
+    "role": "AI Techlead",
+    "company": "ABN AMRO Bank",
+    "notes": "good long description"
+  },
+  {
+    "id": "job_019",
+    "source": "LinkedIn",
+    "role": "AI Consultant",
+    "company": "DEPT",
+    "notes": "good long description, no salary"
+  },
+  {
+    "id": "job_020",
+    "source": "LinkedIn",
+    "role": "Artificial Intelligence Engineer",
+    "company": "Albert Heijn",
+    "notes": "good long description"
+  }
+]

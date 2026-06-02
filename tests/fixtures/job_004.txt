@@ -1,0 +1,92 @@
+Senior AI Engineer
+
+Utrecht, Utrecht, Netherlands 
+About the job
+Are you curious about AI and ready to bridge the gap between high-level strategy and production-ready code? Do you want to use your (Gen)AI knowledge and ML engineering skills to help fast-growing Climate Tech scale-ups build solutions that genuinely matter? At Enjins, you'll have the freedom to work with the latest technologies while creating real, lasting business value - all within a growth-oriented team that values collaboration, celebrates together, and includes everyone.
+
+About Us 🚀
+
+Since 2018, we've been engineering AI systems designed to deliver long-term, meaningful value. Operating from Utrecht and Berlin, we partner with innovative tech companies across Northwest Europe - including Groendus, SnappCar, Next Sense, Crisp and Beyond Weather - and actively prioritise partnerships in Climate Tech where our technology delivers measurable positive impact.
+
+We build data & AI solutions. At Enjins, we operate with a product mindset, meaning we take full ownership of the technical lifecycle - from initial discovery to a scaling, production-grade engine that lives within our partners' infrastructure. At our core, we are engineers first: clean code, MLOps best practices, and system reliability. Our team is a growth-oriented group of engineers from diverse cultural, academic, and professional backgrounds.
+
+What? [You'll be doing] 👀
+
+As a Senior AI Engineer, you will work at the intersection of technical excellence and project leadership within our team of 20+ engineers. You will act as a hands-on technical lead in a consultancy context, ensuring the impact of AI applications for innovative Dutch and international clients.
+
+Key responsibilities:
+
+Own the full development and implementation of robust AI/ML applications, ensuring systems are scalable and production-ready
+Support the growth of our engineering team by sharing knowledge on technologies like Kubernetes, Airflow, and Kafka — and by mentoring more junior engineers
+Act as a technical partner for stakeholders, translating complex AI architectures into clear business value and human-centric impact
+Play an active role in building Enjins: participating in interviews and identifying new tools and methods that increase team velocity
+
+What Success Looks Like
+
+A concrete example: within your first months you might lead the deployment of a renewable-energy forecasting model for a Climate Tech client - end-to-end, from data pipeline to production API with full MLOps coverage. That's the kind of work we do.
+
+Within 1 Month
+
+Complete Enjins onboarding and become a certified cloud practitioner (AWS, Azure, or GCP)
+Start your first client project, working alongside an experienced Enjins engineer who acts as your buddy
+Meet your dedicated Coach and Buddy who support your first two months
+
+Within 3 Months
+
+Take ownership of a client's AI/ML application from architecture through deployment
+Begin mentoring junior engineers and actively sharing knowledge within the team
+
+Within 6 Months
+
+Drive measurable velocity improvements for your client
+Contribute to team growth - identifying tooling improvements and participating in the hiring process
+
+Requirements
+
+We're looking for pragmatic engineers who thrive on solving complex problems with clean, scalable code - whether your background is software engineering, data science, econometrics, or another quantitative field. If you're willing to expand your skills and grow, we want to hear from you.
+
+Expertise & Skills 🔧
+
+At least 3 years of relevant experience as an AI/ML Engineer, demonstrating a proven history of leading development projects
+Strong proficiency in Python, SQL, and Git, with practical experience in containerization technologies such as Docker and Kubernetes, as well as ETL/ELT orchestration
+Hands-on experience with one or more major cloud platforms (AWS, Azure, GCP) and a solid grasp of MLOps and LLMOps principles
+Background in designing or working with Agentic or LLM-based systems, including RAG pipelines and orchestration frameworks
+Knowledge of model evaluation, testing methodologies, and production monitoring practices
+Experience in technical consultancy environments is highly advantageous
+
+Mindset & Approach ✨
+
+You prioritise 'production-ready' over 'academic hype' and are comfortable engaging with board-level stakeholders to achieve results
+You love discovering new programming languages and frameworks - our world is continuously evolving
+Able to translate technical findings into clear, actionable insights for non-technical audiences. Fluent in English
+
+Benefits
+
+We invest heavily in your journey, ensuring you remain at the technical forefront while growing as a professional.
+
+Accelerate your Growth & Development 🧠
+
+A dedicated personal training programme (AI-Leap) to improve your skills, plus 1-on-1 coaching from Leads and our C-level
+Become a certified cloud practitioner in your first month and dive straight into client projects
+Regular feedback moments and project assessments to ensure continuous professional evolution
+A specialised learning programme sharpening skills in leadership, stakeholder management, architecture, and Tech Due Diligence
+Two career tracks available: technical deepening or engineering leadership — your path to choose
+
+Innovation & Work Environment ⚡️
+
+Work from our modern office in Utrecht along the Oudegracht
+Receive an Apple MacBook Pro and top-tier tools
+Competitive salary: €4,500 - €6,200 per month gross (excl. holiday allowance, pension, performance bonus, and AI-Leap benefits)
+Annual Performance Bonus: Equivalent to 1.5 months' salary, recognising your individual contribution
+
+Work-life Balance & Culture 👐
+
+28 vacation days — including flexibility for 3 national holidays
+Monthly social events: themed parties, sports tournaments, pub quizzes, and more
+Yearly Enjins Summer Summit: 2-day event deep diving into the intersection of AI x Climate
+OV-First (Public Transport) travel policy, fully covering your commute
+Meat-free catering during events
+
+Have we sparked your interest? 🌎 
+
+Let's have a talk! In the first meeting you talk directly to one of our Lead AI engineers, so ask everything you want to know. If you want to reach out to us before applying with any questions, drop us an email at work@enjins.com

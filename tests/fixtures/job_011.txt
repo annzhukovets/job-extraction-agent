@@ -1,0 +1,96 @@
+Sr. Demand Planning Analyst (f/m/x) 
+
+Amsterdam, North Holland, Netherlands
+About the job
+The role: What's in the Box
+
+We’re looking for a Senior Demand Planning Analyst who is as comfortable writing SQL as they are explaining a forecast miss to a Procurement Director. This is a hybrid role: part data engineer, part forecaster, part cross-functional operator.
+
+You’ll own the demand signal that drives every operational decision at HelloFresh, from how much food we buy to how many staff we schedule and how many trucks we book. Your forecasts directly determine food waste, labour costs, and customer experience for millions of meals across Europe.
+
+Our Demand Planning team is transitioning from a legacy operating model to a unified, automated, data-driven global function. You will bridge that gap — building the next-generation forecasting capabilities while keeping daily supply chain execution accurate and agile.
+
+What you’ll do: The Recipe
+
+Build & Automate Forecasting Systems
+
+Write and maintain SQL queries daily to extract, validate, and transform demand data across cloud data platforms (e.g., Databricks, BigQuery, Snowflake).
+Develop and refine forecasting models in Python, applying statistical and machine learning techniques — from simple trend and seasonality models through to more advanced approaches as the function matures.
+Design dashboards and automated reporting using visualisation tools (e.g., Tableau, Power BI) that give stakeholders self-service access to demand insights.
+Work alongside forecast engineers to architect scalable pipelines, ensuring local market nuances are handled without breaking the unified codebase.
+Build “What-If” scenario simulations (e.g., “What if we run an aggressive promo in a key European market next week?”) to stress-test operational capacity and quantify supply chain risk.
+
+Own the Demand Plan
+
+Generate and validate daily and weekly demand plans for European markets. You are the guardian of the Decision-Time forecast — the plan must be accurate at the exact moment Procurement and Production need to act.
+Monitor trends, seasonality, and promotional impacts. Proactively flag when the plan needs adjusting and communicate changes before they surprise the supply chain.
+Implement data validation and QA checks to ensure forecast reliability, with alerting for anomalies.
+
+Drive Cross-Functional Alignment (S&OP)
+
+Drive cross-functional alignment and play a key role in the weekly S&OP planning cycle with Market Leadership, Logistics, Production, and Procurement — ensuring the forecast is shaped by stakeholder inputs and shifting the conversation from error reporting to risk management and strategic alignment.
+Partner with Marketing to ensure growth campaigns and promotions are reflected in the demand view before they hit the supply chain.
+When deviations occur, go beyond surface metrics: diagnose root causes, quantify impact, and deliver actionable insights that prevent recurrence.
+
+Above all, we are looking for people who will make HelloFresh better. There are many different ways of developing skills, and we love diverse experiences! So even if you don’t “tick all the boxes” but think you’d thrive in this role, we would really like to learn more about you.
+
+Are you the missing ingredient? If this sounds like a tasty opportunity, we’d be excited to hear from you. We aim to review your profile and respond within 5 business days.
+
+What you’ll bring: The Ingredients
+
+Required Technical Skills
+
+SQL: Fluent. You write complex queries daily — joins, window functions, CTEs — and are comfortable working in cloud data platforms (e.g., Databricks, BigQuery, Snowflake).
+Python: Good working knowledge. You can write and maintain scripts for data manipulation, forecasting, and analysis. You don’t need to be a software engineer, but you’re confident using Python to solve analytical problems.
+Visualisation: Experience building dashboards in tools such as Tableau or Power BI to make data accessible to non-technical stakeholders.
+Excel/Google Sheets: Advanced. Still essential for ad-hoc analysis and stakeholder communication, but not your primary tool.
+
+Required Domain Experience
+
+4+ years in Demand Planning, Supply Planning, or Supply Chain Analytics. E-commerce, food retail, or FMCG experience is strongly preferred — perishable/short shelf-life experience is a significant plus.
+Strong grasp of forecasting techniques: you understand bias, accuracy metrics (MAPE, WMAPE), trend decomposition, and how to evaluate model performance holistically.
+Experience forecasting in environments with limited historical data (newer markets, product launches) using proxy data and trend smoothing.
+Proven ability to manage demand and supply risks: proposing mitigations (buffers, caps, swaps) and communicating complex trade-offs to senior stakeholders.
+Comfortable with project tools like JIRA/Confluence for managing backlogs and improvement roadmaps.
+Strong communication skills: you can present forecast insights, explain variance drivers, and articulate trade-offs clearly to both technical and non-technical audiences, ensuring alignment across functions.
+
+What we offer: The Toppings
+
+Compensation & Financial Wellbeing
+
+Enjoy 20% off HelloFresh and 40% off Factor_ subscriptions.
+Access the "Benefits at Work" platform for discounts on brands like Nike, Bol.com, and IKEA. 
+You'll receive a HelloFresh laptop, a €250 home office setup budget, and contribute to the Bedrijfspensioenfonds Levensmiddelen pension scheme (2026 rate 27.6%; employer pays 19.64%, employee pays 7.96%).
+
+Health & Wellbeing
+
+Benefit from discounts on ClassPass and gym memberships via Bedrijfsfitness Nederland, free bootcamp classes (Amsterdam), and free subscriptions to Headspace and OpenUp.
+Get a 7,5% discount on additional health insurance at Zilveren Kruis in 2025.
+
+Flexibility & Work-Life
+
+Work flexibly with our hybrid setup (50% office, 50% remote), plus a €2.40 daily remote work allowance.
+Receive 24 days of annual leave (pro-rated), plus one additional day per year of service (up to 30 days total).
+Full reimbursement for 2nd-class public transport to the office, plus €0.23 per km for car and bicycle travel.
+Eligible employees can work from another country for up to 8 weeks per year.
+
+Career & Development
+
+Grow with our "Learning Never Stops" mindset: access internal/external opportunities, and join our cross-market mentoring program.
+A dedicated annual budget to help you keep learning, developing new skills, and growing your career.
+
+Culture & Environment
+
+Enjoy fresh homemade lunches in the office (€3.00/day), weekly vrij-mi-bo (Friday drinks), quarterly strategy sessions, and team events.
+
+About HelloFresh
+
+HelloFresh is on a mission to change the way people eat, forever!
+
+Since our 2011 founding in Europe’s vibrant tech hub, Berlin, we’ve become the world's leading meal kit provider, delivering to over 4.2 million households worldwide in 16 countries across 3 continents.
+
+Are you up for the challenge?
+
+Please submit your complete application below including your salary expectations and earliest starting date.
+
+After submitting an application our team will review this and get back to you within 5 business days.

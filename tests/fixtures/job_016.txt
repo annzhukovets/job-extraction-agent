@@ -1,0 +1,25 @@
+AI Application Engineer
+Leusden, Utrecht, Netherlands
+Nostrion: Meet Your Future Employer
+
+Nostrion builds a sovereign AI platform for organizations that work with sensitive data and operate under strict regulatory and security requirements. We enable companies to adopt AI without relying on public AI platforms, giving them full control over their data, models, workflows, and compliance. Our platform is designed for high-trust environments where reliability, explainability, scalability, and auditability are essential. At Nostrion, we combine strong product thinking with deep technical execution to build AI systems that professionals can rely on every day.
+
+What Does Nostrion Offer You?
+
+You will join a highly ambitious and focused team where ownership, autonomy, and technical excellence are central. We work in a hands-on, product-driven environment with short communication lines and a strong bias toward execution. You will have direct influence on architecture, product direction, and the long-term development of the platform. Nostrion offers a competitive salary, attractive employment conditions, and the opportunity to help shape a company building at the intersection of AI, infrastructure, and regulated software.
+
+Your Role
+
+As an AI Application Engineer at Nostrion, you design and build scalable AI workflows that can be reused across multiple customer environments and use cases. You work on the orchestration layer that makes LLM functionality reliable, controllable, and production-ready within a broader software platform.
+You focus on prompt optimization, structured output control, model routing, evaluation logic, and workflow stability. Rather than creating one-off AI features, you develop generalizable patterns that support product scalability and model flexibility. You ensure the platform remains model-agnostic where needed and that performance, cost, and output quality can be measured and improved systematically.
+You also contribute to evaluation frameworks that help compare prompts, workflows, and model behavior over time. Your work is essential in making AI functionality dependable and enterprise-ready.
+
+What Do You Bring?
+
+You have experience building AI-powered applications and understand the practical challenges of integrating LLMs into real software products. You are familiar with prompt design, output validation, workflow orchestration, and the limitations of probabilistic systems.
+You think beyond demos and prototypes and understand what is needed to operationalize AI reliably. You are comfortable working with APIs, Python-based backend systems, and evaluation approaches that improve quality and consistency. You care about scalability, maintainability, and the balance between flexibility and control.
+Experience with multiple model providers, RAG patterns, evaluation tooling, and guardrail design is a strong plus.
+
+Your Team
+
+You work closely with Platform Engineers, Product, and other AI Engineers to translate product needs into reusable AI capabilities that can be deployed at scale.

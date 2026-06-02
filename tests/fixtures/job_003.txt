@@ -1,0 +1,72 @@
+Machine Learning & AI Engineer 
+
+Amsterdam, North Holland, Netherlands
+About the job
+At a glance
+
+The Finance and Risk Data Domain is looking for an experienced (8+ years) machine learning engineer for the advanced analytics and AI team. The position is for 40 hours per week at hay level 11 (€ 70.000- € 100.000 yearly gross based on 40 hrs) and you would join around 10 other engineers to create AI driven solutions that empower our business.
+
+The AI team uses its expertise to turn promising (gen)AI ideas into fully fledged products. These products are data driven and assist the business in unlocking the full value of our data in order to make better informed decisions. Several applications are already in use and are used daily by colleagues across the organization.
+
+Your job
+
+Your role within this team will include the design and creation of AI models/applications. You will also be expected to be able to explain the value of your designs and defend the choices made. As an expert and frontrunner on AI you should also be able to convince others of the value that your applications can bring, as well as coach and train less experienced engineers in the proper use of AI.
+
+AI applications usually start their journey with a business requirement and an idea to have AI assist with the stated problem. Then a proof of concept phase starts, followed by a formal production design and implementation if successful. You will be involved at all stages of this pipeline, offering advice and guidance, and aiding with the design and implementation, either directly or indirectly. You will also train teams to maintain these applications.
+
+Your profile
+
+We heavily utilize Databricks in our environment for our data applications, using Python as our language of choice. Required skills would therefore include:
+
+Python
+Spark/PySpark
+Databricks
+Azure (AI services especially)
+SQL
+Software development practices (clean code, SOLID, patterns etc.)
+Excellent communication and stakeholder management skills
+
+
+AI-Assisted Development (nice to have)
+
+Experience with AI-assisted development tools (e.g. GitHub Copilot in VS Code / IDEs)
+Able to establish and maintain structured AI context (e.g. repository-level instructions, prompts, and reusable skills)
+Guides AI tools by embedding team standards, architectural decisions, and best practices into reusable context
+Reduces rework and inconsistency by contributing to shared AI assets (templates, examples, and patterns)
+Critically evaluates AI-generated output and ensures alignment with quality, security, and maintainability expectationsIdentifies opportunities to scale AI usage across the team through structured approaches rather than ad-hoc prompting
+
+
+Working environment
+
+The F&R data domain is a multicultural environment that works in an agile way and promotes knowledge sharing and collaboration. We host department wide sessions several times a year to facilitate this and have some fun events on top.
+
+We are offering
+
+We believe it is important to be a good employer. Joining us means stepping into a role with impact, supported by excellent employment conditions that foster your job satisfaction, development, and wellbeing.
+
+In addition, we offer:
+
+An attractive gross monthly salary based on a 36‑hour work week, including holiday allowance and a flexible benefit budget. 
+An excellent pension scheme, ensuring that you are well prepared for the future. 
+Flexibility in working: working from home is possible in consultation with your team and depending on your role. We will provide an ergonomic home office setup for you. 
+Plenty of room for relaxation with five weeks of vacation per year, supplemented by two mandatory days off. You can also purchase up to four additional weeks of vacation annually. 
+Five “Banking for better days”: extra days off that you can use for personal development or volunteer work. 
+Personal development is key: you receive a development budget of €1,000 per year, which can accumulate up to €3,000. 
+An annual public transport pass with free public transportation throughout the Netherlands for both business and private use. 
+
+
+You can find more information about our employment conditions and salary scales in our Collective Labour Agreement (CLA), which applies to this vacancy.
+
+Interested?
+
+After initial screening, the interview process consists of a first interview to go over the role and relevant experience and skills in broad strokes. This is followed by a technical assignment and a technical interview. The assignment covers the basic aspects of the job and forms a starting point for the second interview. After the second interview we will usually take a decision, although on rare occasions a third interview can take place. For additional questions, you can contact the hiring manager: jasper.ris@nl.abnamro.com
+
+Your Future: Inclusive, Innovative, Sustainable
+
+At ABN AMRO, we believe in "Banking for better, for generations to come." Equal opportunities for everyone are a crucial foundation, as we strive for an inclusive culture where all employees feel seen, heard, and valued. Our vision of being a personal bank in the digital age aligns perfectly with the demand for surprising insights and innovative solutions, born from a diverse interplay of cultures and experiences. We focus on customer experience, sustainability, and building a future-proof bank, conducting annual reviews to ensure equal pay for equal work. Join a bank that embraces ingenuity and ambition, and make an impact with us for a better future.
+
+If you want to apply for the B-Able or Reboot program, make sure to mention it both in the title and the content of your resume.
+
+Disclaimer external recruitment agencies
+
+External recruitment agencies need to have a signed agreement with ABN AMRO BANK N.V., executed by a Talent Acquisition Specialist, when submitting a resume to a vacancy. No unsolicited services or offers, please.

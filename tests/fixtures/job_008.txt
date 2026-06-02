@@ -1,0 +1,74 @@
+Lead AI engineer
+
+Utrecht, Utrecht, Netherlands 
+About the job
+About Ynteq
+
+We are Ynteq, a fast-growing start-up that builds an AI maintenance platform (CMMS) for the manufacturing industry. We are on a mission to make the industry smarter, cleaner and more efficient. Our platform has three unique selling points: simple-to-use, smart, and AI-native by design. Maintenance software today documents work after the fact. Ynteq focuses on making maintenance work better as it happens by removing friction, automating the obvious, and supporting better decisions.
+
+
+
+The role
+
+As a Lead AI Engineer, you will design, build, and own the AI capabilities at the core of Ynteq’s CMMS platform. Your work will directly support technicians, planners, and reliability managers in planning, executing, and improving maintenance work.
+
+This is a hands-on, senior role for someone who has shipped AI into production and understands how to turn models into trusted, everyday tools.
+
+
+
+What you’ll work on
+
+You will build and ship AI-powered features such as:
+
+
+
+Smart work order creation from text, voice, and operational signals
+Automatic classification of failures, causes, and actions
+AI-assisted task breakdowns, checklists, and spare part suggestions
+Maintenance prioritization and planning support
+Pattern detection across historical maintenance and asset data
+Workflow-native copilots embedded directly in daily maintenance flows
+You’ll work end-to-end: from problem framing to production, evaluation, and iteration.
+
+
+What we’re looking for
+
+You are a senior engineer with strong technical depth and product judgment. You have:
+
+
+
+5+ years of experience in software engineering, with significant AI exposure
+Proven experience shipping AI-powered features into production
+Hands-on experience with LLMs and applied AI systems
+Strong backend engineering skills (APIs, services, data pipelines)
+Experience working with messy, real-world operational data
+The ability to make pragmatic trade-offs between automation and control
+A product mindset: you care about usability, trust, and outcomes
+
+
+Our working principles
+
+
+
+Build for real users in real operations
+Prefer simple systems that work reliably
+Treat AI as a copilot, not a black box
+Ship early, learn from usage, iterate fast
+Take ownership from idea to impact
+Say no to AI when it doesn’t add value
+
+
+Why Ynteq
+
+
+
+Greenfield CMMS platform with AI at its core
+Real industrial problems with measurable impact
+High ownership and autonomy
+Competitive salary, equity, and benefits
+A team that values clarity and concrete results and short time to market
+Backed by an entrepreneurial team with proven success in the same industry...
+... and become one of the first employees of a unicorn
+
+
+Please apply on Linkedin or via our website

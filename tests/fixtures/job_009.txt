@@ -1,0 +1,126 @@
+AI Engineer 
+
+Rotterdam, South Holland, Netherlands
+About the job
+Builders is an AI-first venture studio in Rotterdam. We co-found enterprise AI companies from day zero. We built the platform that makes it work. It's called VSI. It's about to meet the world.
+
+
+
+We're hiring two Senior AI-First Engineers to join our Core Team. Same role, same level, same bar. Together you'll be the engineering backbone of VSI as it goes from production-with-beta-users to public platform. Two superstars, not two pairs of hands - each of you should be able to own most of the surface area on your own, and together you should be unstoppable.
+
+
+
+Why this role exists
+
+VSI is real. It's in production with our internal ventures, our ~10 beta founders, and is about to be opened up to the world. Outstanding offers with corporates are converting into signed pilots. Q2 launch is locked.
+
+
+
+The gap between here and there is engineering velocity. We need two senior, AI-native engineers who can ship VSI from prototype-grade to production-grade, and who can keep shipping at full speed once paying customers and corporates show up.
+
+
+
+We're hiring two together, deliberately. Engineering teams of one don't ship platforms; they ship features. Two senior engineers, working side-by-side, on the same codebase, with shared ownership of architecture and quality, is how this gets built. We want two people who could each, in a pinch, hold the whole system in their head - and who choose to work as a pair because together they ship twice as fast, not half as much each.
+
+
+
+What you'll build
+
+Ship VSI to the world
+
+VSI is a multi-agent platform that turns founder conversations into structured venture intelligence. Today: Radar, Sentinel, Orbit, and Beacon agents in production. Company memory ~80% built. Onboarding flow under construction. Public launch in Q2.
+
+
+
+Your job, day one: get VSI from "works for us" to "works for thousands."
+
+Production-grade core agents. Harden Radar, Sentinel, Orbit, and Beacon. Ship company memory v1 complete. Ship the onboarding flow that lets a founder sign up and self-serve their way to value.
+Multi-tenant architecture. Today's platform serves a handful of ventures. Q3's platform serves hundreds. You design and ship that scale-out - across our 3-tier RBAC model (devops / organisation / workspace), our Prisma + Supabase data layer, and our soft-delete and venture-isolation guarantees.
+Real-time agent orchestration. Conversation in → ingest → transcription → agent analysis → living-document updates → UI, all in seconds, all reliable, across many concurrent founders. We're collapsing our background pipeline onto Vercel (functions, queues, cron) and rebuilding ingest as a first-class surface; you'll own that migration end-to-end.
+API / MCP / CLI surfaces. Founders and their own agents need to plug into VSI. You build the surfaces that make that possible - including the MCP server that exposes ventures, conversations, signals, artifacts, speakers, and reflections to external agents.
+
+
+Ship continuously, not in milestones
+
+VSI doesn't have a "v1 then quarterly releases" cadence. It ships every week. You'll work in a daily standup rhythm, on a single board, with weekly Friday ship days where every person presents what they shipped and one Claude skill they built.
+
+
+
+Make the studio faster
+
+Every internal workflow we run sales, recruiting, founder onboarding, content production should be running on AI by default. You'll occasionally surface from VSI work to wire up new internal automations that compound the studio's velocity.
+
+
+
+Tech stack
+
+TypeScript end-to-end, with Python where the AI tooling demands it. The whole platform runs on Vercel and Supabase; Next.js and React on the front, Next.js API routes and background functions on the back, Postgres + pgvector for data and embeddings, Prisma as the ORM, Zod for validation, S3 for object storage. Anthropic, Gemini, and Assembly AI on the model side. Custom agent orchestration today; LangGraph or LangChain only where they earn their keep.
+
+We care about engineering judgement over specific stack experience. The right engineer picks up our exact tools in a week. Day one, you live in Claude Code or Cursor, daily, not occasionally.
+
+
+
+What we're looking for
+
+Must-have 
+
+5+ years building production platforms. You've shipped something real that handles real load. Multi-tenant SaaS, AI platforms, data infrastructure, or developer tools.
+AI-native by default. Claude Code, Cursor, agent frameworks. These are how you work, not what you're "learning." You build your own skills and workflows. You ship more in a day with AI than you used to ship in a week without it.
+Full-stack range — and we mean it. You can move between React frontend, Next.js API routes, Vercel background functions, Postgres + pgvector schema design, and AI integration without slowing down. We don't need specialists right now. We need superstars who can own a feature end-to-end, from migration to UI to agent prompt.
+AI agent integration experience. LangGraph, LangChain, custom orchestration, RAG pipelines, vector DBs. You've built with these, debugged the failure modes, and have opinions on what works.
+Database design rigour. Relational + vector. You design schemas that scale and queries that don't fall over. You know why embedding::text over the wire is a six-figure egress mistake, and you'd rather write the pgvector ANN query than fetch and recompute in JS.
+Senior judgement. You make architecture calls and own them. You don't need a PM to scope your work or a tech lead to unblock you. You collaborate fast, write fast, decide fast.
+On-site in Rotterdam. This is non-negotiable. Builders runs on daily in-person standups and weekly ship days. Remote is the exception, not the rule. Same as for everyone on the Core Team.
+Strong plus
+
+Experience building agent platforms, AI products, or developer tools at production scale.
+Background with real-time transcription, conversation intelligence, or workflow automation.
+Deep Vercel experience: functions, queues, cron, edge, at scale, not just hobby projects.
+MCP server / client experience, or any track record exposing structured data to external agents.
+Open source contributions or a personal portfolio of shipped AI tools, skills, or agents.
+Founder or co-founder experience, you've been close enough to a 0-to-1 to know what builds momentum and what kills it.
+
+
+What you bring
+
+Ship-first instinct. You'd rather ship something rough on Friday than something polished in three weeks. You polish after it's in production.
+Frame-aware mindset. You understand product context. You know when to push back on a spec and when to just build it.
+Compounding habits. When you do something twice, you turn it into a skill. When you write a function twice, you generalize it. Every week leaves the next one faster.
+High-trust collaboration. You and your engineering counterpart work on the same codebase, share architecture decisions, and review each other's work. No silos, no kingdoms, no hero engineering. But each of you could carry the codebase alone if you had to.
+Direct communication. Short Slack messages. Loom over docs. Decisions in seconds, not days.
+
+
+Why join Builders as Platform Engineer?
+
+A platform with a real shot
+
+VSI is the most ambitious product bet in European venture studios. There's no comparable platform anywhere in the EU. You'd be one of two engineers shipping it from beta to public.
+
+
+
+A team built for speed
+
+Daily standups. Weekly ship days. Claude-first. No corporate scaffolding. No design review committees. The whole studio operates with the assumption that AI-native execution is the floor, not the ceiling.
+
+
+
+Rotterdam, in-person
+
+Lively office next to Rotterdam Central. Founders in the room. Beta users down the hall. Whiteboards covered in agent flow diagrams. Friday ship-day drinks.
+
+
+
+Compensation
+
+Senior salary range — €60–85k base depending on experience.
+Equity — meaningful, long-dated, in Builders' STAK structure.
+Tool budget — every AI tool, every IDE, every model API. We never want a tool to be the bottleneck.
+
+
+The Builders spirit
+
+Ambitious and fast, but with joy in the process. We value creativity, collaboration, and curiosity. We move quickly, embrace friction, celebrate progress.
+
+
+
+This is a moment. Help us build something people copy.

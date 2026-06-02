@@ -1,0 +1,124 @@
+Senior ML & AI Engineer
+AI en data zijn bij onze klanten geen experiment meer. Ze vormen steeds vaker kritische infrastructuur waarop besluiten, processen en publieke verantwoordelijkheid rusten. Dat vraagt om meer dan slimme modellen of losse use cases. Het vraagt om robuuste architecturen, volwassen engineering en duidelijke keuzes over wat je wel en niet automatiseert.
+
+Adapt groeit inhoudelijk én strategisch. De complexiteit van ons werk neemt toe: schaalbaarheid, governance, compliance en productisering zijn geen randvoorwaarden meer, maar kern van de oplossing.
+Daarom zoeken we een Senior AI & Data Engineer die niet alleen bouwt, maar richting geeft. Iemand die technische diepgang verankert en helpt bepalen hoe AI en data structureel en verantwoord worden ingezet.
+
+Werken bij Adapt
+
+Adapt is een strategisch en data-gedreven consultancybureau op het snijvlak van data, AI, strategie en executie. We werken aan impact, niet aan losse tools. Dat betekent vrijheid in hoe je werkt, én verantwoordelijkheid voor wat je neerzet.
+
+Bij Adapt ben je geen resource en geen uitvoerder op afstand. Je werkt aan projecten en programma’s waar inhoud ertoe doet, samen met collega’s uit strategie, governance, analytics en engineering. We verwachten eigenaarschap, nieuwsgierigheid en reflectie. In ruil daarvoor krijg je ruimte, vertrouwen en invloed op de inhoudelijke koers.
+
+Dit is geen plek om alleen tickets weg te werken. Wel een plek voor professionals die willen bouwen aan iets dat blijft staan.
+
+De rol – wat ga je écht doen
+
+Als Senior AI & Data Engineer ben je inhoudelijk eigenaar van AI- en data-oplossingen bij klanten én binnen Adapt. Je beweegt tussen ontwerp, realisatie en inhoudelijke afstemming.
+
+Concreet betekent dit:
+
+Ontwerpen en bouwen van robuuste AI- en data-architecturen (cloud-first, vaak Azure)
+Vertalen van business- en beleidsvragen naar schaalbare AI-oplossingen
+Van proof-of-concept naar productie: inclusief MLOps, monitoring en lifecycle management
+Integreren van AI in bestaande datafundamenten, niet ernaast
+Actief meebouwen aan interne standaarden, frameworks en herbruikbare bouwblokken
+Sparringpartner voor klanten, strategen en collega-engineers
+Signaleren en voorkomen van technische schuld, governance- en compliancerisico’s
+De balans in je werk is ongeveer 60% bouwen & ontwerpen en 40% afstemming, richting en sparring.
+
+Je bent afrekenbaar op:
+
+De kwaliteit en duurzaamheid van oplossingen
+De mate waarin AI-oplossingen daadwerkelijk in productie landen
+Vermindering van technische, juridische en organisatorische risico’s
+De inhoudelijke volwassenheid van projecten en proposities
+Impact & ontwikkeling
+
+Deze rol maakt impact op drie niveaus:
+
+Bij klanten
+
+Van losse use cases naar volwassen AI- en dataplatformen
+Van “wat kan AI?” naar “wat durven we verantwoord te automatiseren?”
+AI als onderdeel van kernprocessen, met menselijke regie en uitlegbaarheid
+Binnen Adapt
+
+Kennis borgen en collega’s inhoudelijk optillen
+Meebouwen aan schaalbare proposities en standaarden
+Richting geven aan hoe wij AI & data structureel inzetten
+Strategisch
+
+Verbinding leggen tussen technologie, governance en businesswaarde
+Meedenken over positionering en keuzes: wat doen we wel – en bewust niet
+Doorgroei richting Lead AI & Data Engineering (inhoudelijk) is mogelijk.
+
+Wat wij bieden
+
+Direct een vast contract na de proeftijd van 2 maanden
+Een marktconform salaris mét bonusregeling op basis van jouw gerealiseerde omzet
+Een auto van de zaak (bij voorkeur elektrisch) of mobiliteitsvergoeding, laptop en telefoon(vergoeding)
+Werk 2 tot 3 dagen per week vanuit huis
+€500,- bruto per jaar voor de inrichting van je thuiswerkplek
+Een premievrije pensioenregeling
+26 vakantiedagen o.b.v. fulltime + 1 extra dag voor je verjaardag
+Een opleidingsbudget van €4.000,- per jaar o.b.v. fulltime
+Een prachtig kantoor in Zeist met gezamenlijke lunch en sociale activiteiten
+Vrijheid en verantwoordelijkheid om je eigen ideeën te realiseren
+De kans om bij te dragen aan een groeiende en sterk inhoudelijke consultancyclub
+Indicatieve salarisband: €5.500 – €7.500 bruto p/m, afhankelijk van ervaring.
+
+Wat wij zoeken
+
+Must-haves
+
+6–10 jaar relevante ervaring in AI & data engineering
+In staat om zelfstandig architectuur- en ontwerpkeuzes te maken
+Ervaring met cloud-architecturen (bij voorkeur Azure)
+Ervaring met productie-AI (MLOps, monitoring, lifecycle)
+Sterk in het vertalen van context en businessvragen naar technische oplossingen
+Bewust van governance, privacy en compliance (o.a. EU AI Act)
+Vloeiend Nederlands
+Nice-to-haves
+
+Ervaring met LLM-architecturen en AI-integraties in bestaande systemen
+Ervaring met het bouwen van herbruikbare frameworks of producten
+Affiniteit met kennisdeling en inhoudelijk leiderschap
+Wat deze rol níét is
+
+Geen pure uitvoerende engineer
+Geen AI-hobbyist die vooral experimenteert
+Geen rol waarin je alleen tools configureert
+Geen “prompt engineer-only” functie
+Geen plek zonder context, verantwoordelijkheid of lastige vragen
+Wie hier alleen techniek wil doen zonder eigenaarschap, past niet bij Adapt.
+
+Ben je een senior engineer die verder kijkt dan de oplossing van vandaag, en verantwoordelijkheid wil nemen voor wat AI morgen betekent? Dan maken we graag kennis. Wij vragen je dan ook om te solliciteren en direct bij je sollicitatie een motivatiebrief toe te voegen.
+
+Soort dienstverband: Fulltime, Vaste baan
+
+Salaris: €5.500,00 - €7.500,00 per maand
+
+Arbeidsvoorwaarden:
+
+Auto van de zaak
+Bedrijfsfeesten
+Budget voor professionele ontwikkeling
+Extra vakantiedagen
+Flexibele werkuren
+Kerstpakket
+Pensioen
+Reiskostenvergoeding
+Telefoon van de zaak
+Verhuisvergoeding
+Werk vanuit huis
+Opleiding:
+
+HBO (Vereist)
+Ervaring:
+
+AI & data engineering: 5 jaar (Vereist)
+Taal:
+
+Nederlands (Vereist)
+Werklocatie: Hybride werken in 3703 Zeist
